@@ -1,0 +1,28 @@
+name: NEOCRXFT
+favicon: null
+layout_spectrum: 0.9716555473860353
+typography_spectrum: 0.885569334262982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8975577810779214
+  lightness: 0.11502131330780685
+  saturation: 0.07109445100650191
+  rhythmicContrast: 0.7969393855892122
+purpose: []
